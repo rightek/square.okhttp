@@ -4,7 +4,7 @@
 This project is based on [this repo](https://github.com/mattleibow/square-bindings), we use OkHttp3 in our projects, so we'll keep this repo up to date with [original (_java_) repo](https://github.com/square/okio). _current version `3.14.2`_
 
 ## Nuget Package
-Run `Install-Package Rightek.Square.OkHttp3` or head to [Rightek.Square.Okio](https://www.nuget.org/packages/Rightek.Square.OkHttp3/)
+Run `Install-Package Rightek.Square.OkHttp3` or head to [Rightek.Square.OkHttp3](https://www.nuget.org/packages/Rightek.Square.OkHttp3/)
 
 ## Dependencies
 - [Xamarin binding for Okio](https://github.com/rightek/square.okio)
