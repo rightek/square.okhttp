@@ -11,10 +11,10 @@
     <IsBindingProject>true</IsBindingProject>
     <AndroidClassParser>class-parse</AndroidClassParser>
     <AndroidCodegenTarget>XAJavaInterop1</AndroidCodegenTarget>
-    <Version>3.12.3.0</Version>
-    <FileVersion>3.12.3.0</FileVersion>
-    <InformationalVersion>3.12.3.0</InformationalVersion>
-    <PackageVersion>3.12.3</PackageVersion>
+    <Version>3.14.4.0</Version>
+    <FileVersion>3.14.4.0</FileVersion>
+    <InformationalVersion>3.14.4.0</InformationalVersion>
+    <PackageVersion>3.14.4</PackageVersion>
     <PackageId>Rightek.Square.OkHttp3</PackageId>
     <Product>Rightek.Square.OkHttp3</Product>
     <Title>Square.OkHttp3 binding for Xamarin.Android</Title>

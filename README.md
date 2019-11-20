@@ -1,7 +1,7 @@
 # OkHttp3
  Xamarin Android binding for [Square OkHttp3](https://github.com/square/okhttp) (An HTTP+HTTP/2 client for Android and Java applications).
 
-This project is based on [this repo](https://github.com/mattleibow/square-bindings), we use OkHttp3 in our projects, so we'll keep this repo up to date with [original (_java_) repo](https://github.com/square/okhttp). _current version `3.14.2`_
+This project is based on [this repo](https://github.com/mattleibow/square-bindings), we use OkHttp3 in our projects, so we'll keep this repo up to date with [original (_java_) repo](https://github.com/square/okhttp). _current version `3.14.4`_
 
 ## Nuget
 `PM> Install-Package Rightek.Square.OkHttp3`
